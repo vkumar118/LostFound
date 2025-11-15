@@ -21,18 +21,6 @@ TECH STACK
 • Font Awesome icons
 • OpenStreetMap tiles
 
-QUICK START
------------
-Method 1 - Simple:
-1. Download all files
-2. Double-click index.html
-3. Opens in your browser
-
-Method 2 - Local Server (Recommended):
-1. Open terminal in project folder
-2. Run: python -m http.server 8000
-3. Visit: http://localhost:800
-
 PROJECT FILES
 -------------
 index.html    - Main application
